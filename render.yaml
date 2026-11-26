@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: winter-garden-fl-34787
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
