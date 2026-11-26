@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://winter-garden-fl-34787.onrender.com/sitemap.xml
+Sitemap: https://winter-garden-fl-34787.onrender.com/bed-bug-exterminator-winter-garden/sitemap.xml
